@@ -7,7 +7,8 @@
 This lab demonstrates basic network connectivity testing, packet capture, and identification of common security issues using Wireshark on Parrot OS. It is a practical exercise for anyone moving from application security into broader cybersecurity engineering.
 
 The goal is to clearly see the difference between unencrypted and encrypted traffic and understand why basic protocol choices matter.
-<img width="1366" height="702" alt="CONNECT1" src="https://github.com/user-attachments/assets/3406fd5c-5b71-490f-9725-9b2ec79d3b4b" />
+
+<img width="1366" height="702" alt="CONNECT1" src="https://github.com/user-attachments/assets/0d7373b8-345e-4902-a42d-4ceecf096a14" />
 
 
 
