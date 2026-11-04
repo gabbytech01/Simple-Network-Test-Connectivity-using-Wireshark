@@ -8,10 +8,6 @@ This lab demonstrates basic network connectivity testing, packet capture, and id
 
 The goal is to clearly see the difference between unencrypted and encrypted traffic and understand why basic protocol choices matter.
 
-<img width="1366" height="702" alt="CONNECT1" src="https://github.com/user-attachments/assets/0d7373b8-345e-4902-a42d-4ceecf096a14" />
-
-
-
 ## Lab Setup
 - Operating System: Parrot OS
 - Tools: Wireshark, Python 3, curl, ping
@@ -23,6 +19,8 @@ The goal is to clearly see the difference between unencrypted and encrypted traf
 ```bash
 python3 -m http.server 8080
 ```
+<img width="1366" height="702" alt="CONNECT1" src="https://github.com/user-attachments/assets/d766f13c-b8ab-42ba-893d-dc8a81adfbef" />
+
 
 ### 2. Generated Traffic
 ```bash
